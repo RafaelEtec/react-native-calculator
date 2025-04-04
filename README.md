@@ -20,6 +20,10 @@ Uma calculadora desenvolvida com React Native e Expo, inspirada na interface ele
    ```bash
    npx expo start
    ```
+   Ou, caso o computador e o aparelho estejam conectados em redes diferentes, utilize:
+   ```bash
+   npx expo start --tunnel
+   ```
 4. Escaneie o QR code com o aplicativo Expo Go (Android/iOS) para visualizar no seu dispositivo.
 
 ## 📦 Dependências
